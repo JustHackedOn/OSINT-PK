@@ -18,7 +18,7 @@ Supports **single number lookups** and **bulk scanning from file lists** — per
 
 ## Installation ⚙️
 
-git clone https://github.com/yourusername/OSINT-PK.git
+git clone https://github.com/JustHackedOn/OSINT-PK.git
 cd OSINT-PK
 pip install -r requirements.txt
 
